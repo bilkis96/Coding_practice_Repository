@@ -9,10 +9,10 @@ public class Main {
             // Press Alt+Enter with your caret at the highlighted text to see how
             // IntelliJ IDEA suggests fixing it.
 
-            org.example.MergeSortedArray mergeSortedArray = new org.example.MergeSortedArray();
-            mergeSortedArray.callMergeFunction();
-
-
+           /* org.example.MergeSortedArray mergeSortedArray = new org.example.MergeSortedArray();
+            mergeSortedArray.callMergeFunction();*/
+        org.leetcode.MergeAlternatively mergeAlternatively = new org.leetcode.MergeAlternatively();
+        mergeAlternatively.callmergestringalternatively();
 
     }
 }
